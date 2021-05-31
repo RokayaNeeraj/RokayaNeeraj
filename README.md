@@ -28,8 +28,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://https://www.linkedin.com/in/niraj-rokaya-10350020a//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="rokayaneeraj@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://https://www.linkedin.com/in/niraj-rokaya-10350020a//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Niraj%20Rokaya%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="rokayaneeraj@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rokayaneeraj@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Niraj07](https://github.com/AVS1508)
