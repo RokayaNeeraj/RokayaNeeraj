@@ -19,8 +19,8 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RokayaNeeraj8&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RokayaNeeraj8&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -31,5 +31,3 @@
 <a href="https://https://www.linkedin.com/in/niraj-rokaya-10350020a//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Niraj%20Rokaya%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="rokayaneeraj@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rokayaneeraj@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-⭐️ From [Niraj07](https://github.com/AVS1508)
