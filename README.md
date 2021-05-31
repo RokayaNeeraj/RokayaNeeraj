@@ -9,11 +9,11 @@
 
 <h3> 🛠 &nbsp;Tech</h3>
 
-- 💻  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-     ![R Studio](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-       ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-       ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau)
-       ![Spreadsheet](https://img.shields.io/badge/-Spreadsheet-333333?style=flat&logo=Spreadsheet)
+- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![R Studio](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau)
+   ![Excel](https://img.shields.io/badge/-Spreadsheet-333333?style=flat&logo=Excel)
  
 
 <br/>
