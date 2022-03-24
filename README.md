@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Completed undergraduate degree from Bangalore University,Bangalore,India.
 - 🎓 &nbsp; Studying MBA in Texas college Of Management & It, Kathmandu,Nepal.
 - 💼 &nbsp; Completed Google Data Analytics Course.
-- ✍️ &nbsp; Looking to work as a Data Analyst. .
+
 
 <h3> 🛠 &nbsp;Tech</h3>
 
