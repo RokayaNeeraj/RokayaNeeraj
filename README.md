@@ -2,8 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Completed undergraduate degree from Bangalore University,Bangalore,India.
-- 🎓 &nbsp; Studying MBA in Texas college Of Management & It, Kathmandu,Nepal.
+- 🤔 &nbsp; Studying Post a Graduate degree in AI and Data Science at loyalist College, Canada.
+- 🎓 &nbsp; Completed MBA in Texas college Of Management & It, Kathmandu,Nepal.
+- 🎓 &nbsp; Completed undergraduate degree from Bangalore University, India.
 - 💼 &nbsp; Completed Google Data Analytics Course.
 
 
