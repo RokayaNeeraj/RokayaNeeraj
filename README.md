@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Studying Post a Graduate degree in AI and Data Science at Loyalist College, Canada.
+- 🤔 &nbsp; Completed Post-graduate degree in AI and Data Science at Loyalist College, Canada.
 - 🎓 &nbsp; Completed MBA in Texas college Of Management & It, Kathmandu,Nepal.
 - 🎓 &nbsp; Completed undergraduate degree in Bachelor of Science from Bangalore University, India.
 - 💼 &nbsp; Completed Google Data Analytics Course.
