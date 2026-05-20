@@ -15,16 +15,6 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau)
    ![Excel](https://img.shields.io/badge/-Spreadsheet-333333?style=flat&logo=Excel)
- 
-
-<br/>
-
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RokayaNeeraj&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RokayaNeeraj&theme=buefy&layout=compact" />
-</a>
-
-<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
